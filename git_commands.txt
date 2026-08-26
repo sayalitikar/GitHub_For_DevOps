@@ -4,4 +4,7 @@ I am Sayali Tikar a Future DevOps Engineer.
 
 I have been learning Linux, Git, GitHub, AWS, Docker, networking, and CI/CD concepts. I am particularly interested in automating deployments, managing cloud infrastructure, and improving the reliability of applications.
 
+Currently, I am strengthening my practical skills by working on DevOps projects and hands-on tasks. My goal is to become a skilled DevOps Engineer who can design, automate, deploy, and maintain scalable applications using cloud and DevOps tools.
+
+I am a quick learner, and I am always interested in learning new technologies and improving my technical skills. Thank you.
 
