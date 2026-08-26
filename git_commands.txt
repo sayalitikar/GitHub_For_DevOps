@@ -1,2 +1,7 @@
 Hello Good Morning Everyone 
 I am Sayali Tikar a Future DevOps Engineer.
+ I am an Information Technology graduate and I am currently building my career in AWS and DevOps.
+
+I have been learning Linux, Git, GitHub, AWS, Docker, networking, and CI/CD concepts. I am particularly interested in automating deployments, managing cloud infrastructure, and improving the reliability of applications.
+
+
